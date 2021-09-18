@@ -19,7 +19,7 @@ body {
 h1 {
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-bottom: 0;
   color: #66bfbf;
 }
@@ -52,8 +52,8 @@ p {
 /* CLASS SELECTORS */
 .bottom-cloud {
   position: absolute;
-  top: 245px;
-  left: 430px;
+  top: 320px;
+  left: 340px;
 }
 .btn {
   margin: 0 10px;
@@ -74,8 +74,8 @@ p {
   font-size: 21px;
   font-weight: 100;
   padding: 10px;
-  -webkit-box-shadow: 1px 1px 10px 0 #000000;
- 
+  -webkit-box-shadow: 1px 1px 10px grey;
+
   text-shadow: 1px 1px 20px #000000;
   border: solid #337fed 1px;
   text-decoration: none;
@@ -139,7 +139,7 @@ p {
 
 .top-cloud {
   position: relative;
-  left: 230px;
+  left: 350px;
   top: 5px;
 }
 
